@@ -10,4 +10,4 @@ Innovative trade-to-earn experience with quantum-resilient randomness based on q
 [![Docs](https://img.shields.io/badge/docs-up-green)](https://onchaintickets.gitbook.io/docs)
 [![Discord](https://img.shields.io/discord/1220318827749965875?label=discord)](https://discord.gg/aKr5x2fa6u)
 [![Twitter](https://img.shields.io/twitter/follow/OnchainTickets?style=social)](https://twitter.com/onchaintickets)
-[![Warpcast](https://img.shields.io/badge/docs-up-green)](https://warpcast.com/onchaintickets)
+[![Warpcast](https://img.shields.io/badge/Warpcast-up-green)](https://warpcast.com/onchaintickets)
