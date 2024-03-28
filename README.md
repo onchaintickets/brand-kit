@@ -1,4 +1,4 @@
-![Onchain Tickers](logo.png)
+![Onchain Tickets](logo.png)
 
 # Onchain Tickets brand-kit
 
